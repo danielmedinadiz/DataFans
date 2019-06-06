@@ -1,5 +1,5 @@
 # DataFans
-Repository for DataRobot competition
+Repository for DataRobot competition 
 Data for this project comes from below sources
 
 Divvy Bike - https://www.divvybikes.com/system-data
