@@ -1,2 +1,2 @@
 # DataFans
-Repository for DataRobo competition
+Repository for DataRobot competition
